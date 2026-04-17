@@ -1,3 +1,15 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)
+
+![Pygame](https://img.shields.io/badge/Pygame-2.x-green)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/Atiye-hashemi/PathVerse)
+![GitHub stars](https://img.shields.io/github/stars/Atiye-hashemi/PathVerse?style=social)
+
+
 ### PathVerse — Pathfinding Visualizer
 
 PathVerse is an interactive visualization tool that demonstrates how different pathfinding algorithms explore a grid to find the shortest path between two points.

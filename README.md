@@ -6,8 +6,6 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Atiye-hashemi/PathVerse)
-![GitHub stars](https://img.shields.io/github/stars/Atiye-hashemi/PathVerse?style=social)
 
 
 ### PathVerse — Pathfinding Visualizer
